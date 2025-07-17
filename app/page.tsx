@@ -123,7 +123,7 @@ export default function HomePage() {
         {/* Imagen de fondo con tinte oscuro */}
         <div className="absolute inset-0">
           <Image
-            src="/pexels-ella-olsson-572949-1640774.jpg" // Coloca tu imagen en la carpeta /public
+            src="/comida.jpg" // Coloca tu imagen en la carpeta /public
             alt="Fondo de comida"
             layout="fill"
             objectFit="cover"
